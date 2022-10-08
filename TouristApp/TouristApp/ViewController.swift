@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
-    let touristNames = ["Seattle", "Bellevue", "Kirkland", "Redmond", "Olympia", "Renton", "Tacoma", "Spokane"]
+    let touristNames = ["seattle", "bellevue", "kirkland", "redmond", "olympia", "renton", "tacoma", "spokane"]
     @IBOutlet weak var tblView: UITableView!
     
     override func viewDidLoad() {
