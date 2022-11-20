@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342235950544-tjfjv9f0tu7s7ku9ea46l269fa0clkgj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342235950544-tjfjv9f0tu7s7ku9ea46l269fa0clkgj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBcbwF_dIGBc5KV8qQcH5wazes5HHQ2Cwk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342235950544</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.northeastern.changpan.Twitok</string>
+	<key>PROJECT_ID</key>
+	<string>twitok-594f4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitok-594f4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342235950544:ios:7e36f68ae4759d16c8ddd5</string>
+</dict>
+</plist>
