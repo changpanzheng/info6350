@@ -43,7 +43,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, UITableViewDe
     
     @IBAction func getLocation(_ sender: Any) {
         let locStr = "\(self.lat!),\(self.lng!)"
-        let apiKey = "MY_API_KEY"
+        let apiKey = "AYQR6QM5KHFYVPH9M4EXXJUCC"
         var url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/weatherdata/forecast?locations="
         url += locStr
         url += "&aggregateHours=24&unitGroup=us&shortColumnNames=false&contentType=json&key="
@@ -74,7 +74,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, UITableViewDe
     }
     
     @IBAction func getWeather(_ sender: Any) {
-        let apiKey = "MY_API_KEY"
+        let apiKey = "AYQR6QM5KHFYVPH9M4EXXJUCC"
         let address = txtLocation.text!
         var url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/weatherdata/forecast?locations="
         
